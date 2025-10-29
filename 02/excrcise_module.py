@@ -34,7 +34,3 @@ if __name__=="__main__":
     print(repr(p3out))
     print("===== problem 4 =====")
     print(repr(p4out))
-
-
-
-            
